@@ -1,4 +1,4 @@
-# Medical-Chatbo using LLamA
+# Medical-Chatbot using LLamA
 # 🦙 LLaMA 3.2 1B - Model Download & Setup (Windows)
 
 This repository contains the code and setup to download and use the [meta-llama/Llama-3.2-1B](https://huggingface.co/meta-llama/Llama-3.2-1B) model from Hugging Face.
